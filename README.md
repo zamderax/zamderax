@@ -2,7 +2,6 @@
 - 👀 I'm interested in the future!
 - 🌱 I’m currently learning Deep Learning, Machine Learning 
 - 💞️ I’m looking to collaborate on a new hard tech startup!
-- 📫 How to reach me zamderax@gmail.com
 - ⚡ Fun fact: I can speak multiple languages and I absolutely love working out. 
 
 <!---
